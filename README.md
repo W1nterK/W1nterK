@@ -6,3 +6,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=social)
+![Version](https://img.shields.io/badge/version-1.0-blue)
