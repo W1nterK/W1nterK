@@ -9,3 +9,5 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=social)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
+
+<details> <summary>📜 Лицензия</summary> MIT License. </details> ```
