@@ -18,6 +18,7 @@
 ---    
 
 <details> <summary>📜 Лицензия</summary> MIT License. </details>
+
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 
 </td>
