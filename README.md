@@ -7,7 +7,9 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<details> <summary>📜 Лицензия</summary> MIT License. </details>
+
 ![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=social)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 
-<details> <summary>📜 Лицензия</summary> MIT License. </details> ```
+![Test](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx5emlnemJrZzhuMGU1ZDVidGM5bnM3dm9iNjljcDl4bHV2MzlmaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1xlpHG63hflTdo2s3P/giphy.gif)
